@@ -35,7 +35,7 @@
 
 ## Open-Source Contributions
 - [QuickJS](https://github.com/quickjs-ng/quickjs) – contributed documentation and code
-- More coming soon! Just getting started with open-source
+- More coming soon! Just getting started with open-source. if you want help on a open source project you can contact me.
 
 ## Finished Projects
 - [Raycasting Engine in C](https://github.com/speedskater1610/rawcasting-engine-in-C)
