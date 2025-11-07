@@ -38,7 +38,7 @@
 - More coming soon! Just getting started with open-source
 
 ## Finished Projects
-- [Rawcasting Engine in C](https://github.com/speedskater1610/rawcasting-engine-in-C)
+- [Raycasting Engine in C](https://github.com/speedskater1610/rawcasting-engine-in-C)
 - [Arduino Game Boy](https://github.com/speedskater1610/Arduino-game-boy)
-- [Brain-F\_ck in Rust](https://github.com/speedskater1610/Brain-F_ck)
+- [Brain-F&ck in Rust](https://github.com/speedskater1610/Brain-F_ck)
 
