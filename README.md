@@ -1,5 +1,7 @@
 # Hi there, I'm Russel! 👋
 
+![Russel's GitHub stats](https://github-readme-stats.vercel.app/api?username=speedskater1610&hide=issues,contribs)
+
 ## Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
