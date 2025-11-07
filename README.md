@@ -40,5 +40,3 @@
 - [Arduino Game Boy](https://github.com/speedskater1610/Arduino-game-boy)
 - [Brain-F\_ck in Rust](https://github.com/speedskater1610/Brain-F_ck)
 
-## Current Projects
-- [CRAW](https://github.com/speedskater1610/craw)
