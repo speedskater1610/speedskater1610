@@ -1,6 +1,16 @@
 # Hi there, I'm Russel! 👋
 
-![Russel's GitHub stats](https://github-readme-stats.vercel.app/api?username=speedskater1610&hide=issues,contribs)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=speedskater1610&show_icons=true&line_height=33&count_private=true&theme=tokyonight" alt="0msg's GitHub Stats" />
+</a>
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedskater1610&hide=cmake&langs_count=4&line_height=35&theme=tokyonight" />
+</a>
+
+<a href="#">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=speedskater1610&theme=tokyonight" />
+</a> <br/>
 
 ## Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
