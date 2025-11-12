@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedskater1610&langs_count=6&line_height=35&theme=tokyonight&?cache_seconds=1200" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=speedskater1610&show_icons=true&line_height=33&count_private=true&theme=tokyonight?cache_seconds=1200" alt="0msg's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=speedskater1610&show_icons=true&line_height=33&count_private=true&theme=tokyonight&?cache_seconds=1200" alt="0msg's GitHub Stats" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=speedskater1610&theme=tokyonight" />
