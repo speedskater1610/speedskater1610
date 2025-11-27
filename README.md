@@ -65,4 +65,5 @@
 - **x86 & 6502 Assembly** – learned IA-32, Z80, and 6502; wrote games for TI-85 and analyzed CPUs.
 - **Rust** – read “The Rust Book”; built parsers, interpreters, async systems, and embedded Rust.
 - **Haskell** – functional programming for lexers, parsers, interpreters, and assemblers.
+  
 [Read my full programming journey](ABOUT-ME.md)
