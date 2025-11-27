@@ -55,7 +55,7 @@ Cargo, variables, shadowing, basic types, control flow (`if`, loops, `match`), f
 
 ---
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 I Wouldnt consider myself good at Java by any means, mainly because I have no drive or reason to learn it, since it is barely alligned with my interests, plus I hate almost eveyrthing about it. 
 
 ---
