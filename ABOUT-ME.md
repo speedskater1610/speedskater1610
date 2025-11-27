@@ -55,6 +55,11 @@ Cargo, variables, shadowing, basic types, control flow (`if`, loops, `match`), f
 
 ---
 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+I Wouldnt consider myself good at Java by any means, mainly because I have no drive or reason to learn it, since it is barely alligned with my interests, plus I hate almost eveyrthing about it. 
+
+---
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 I learned the syntax and started using it with React, but I really don’t like front-end work. I mainly use TypeScript for documentation-related tooling, but I generally prefer Markdown.
 
