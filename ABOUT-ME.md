@@ -1,22 +1,64 @@
 # About me
-## Language Expirence
-These are in the order that I learned them
+## Language Experience
+These are in the order that I learned them.
 
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) - I learned with one through my schools CS1 course where we learned: Variables, Math library, Date library, String indexing, Functions, While loops, For loops, Do-while loops, Switch statements, HTML/CSS, DOM Manipulation + Events, and then spent like 2 months making a whole ton of websites. This was about the time that I realized that Computer Science is what I wanted to do so about half way through the year I started to learn C++. While my classmates did all of that I went ahead and decided the class was too slow paced for me and I started to learn other things which included: Arrays, Objects and Classes, Nested Objects and Arrays, Inheritance, Regex, Maps/Sets, DSA, JS*N, Promises, `await` +  `async`, I then started using Multiple files with Import and Export, React, Node.js, interacting with APIs. Then I started to learn about deeper concepts like: Neural Nets, Game design, Porgramming language design (mainly interpreters at this point), And Starting leetcode like projects. This whole expirence taught me that if I spend 3+ hours a day on learning something that I can easiely surpase everyone around me.  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+I learned JavaScript through my school’s CS1 course where we covered: Variables, Math library, Date library, String indexing, Functions, While loops, For loops, Do-while loops, Switch statements, HTML/CSS, DOM Manipulation + Events, and then spent about two months making a whole ton of websites.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) - My second ever language I learned by completing the all of the codecademy courses for (It took 8 months of grinding at least 2 hours every day) - I would say I know a lot about this language but I have a love hate relationship with it becuase it is was one of my first languages I have to love it but the language its self really isnt that good. I also use this for developing with PROs for vex V5. This introduced me to deeper concepts such as raycasting, Compiler Design and what assembly even is and CPU Architeture / OS'es and why programs can only run on one type of machine and they compiled programs can't really be shared.  
+This was around the time I realized Computer Science was what I wanted to do, so halfway through the year I started learning C++. While my classmates were still doing the basic curriculum, I decided the class was too slow-paced for me and began learning additional things: Arrays, Objects and Classes, Nested Objects and Arrays, Inheritance, Regex, Maps/Sets, DSA, JSON, Promises, `async`/`await`, multi-file projects with import/export, React, Node.js, and working with APIs.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - One of my most used languages, sat down a while back with some C++ knowledge and decided I wanted to learn C because I have only really heard great things about it. And I really liked it so if you want to get into it as your 2nd or 3rd language I highly reccomend it, C changed the ways that I think about a lot of things and This is when I started to go into embedded programming & embedded systems development on things like the Arduino or ESP32, where I built a lot of cool things and then switched to "pure" C where I only used `avr-libc`, `avr-gcc`, and `avr-dude`, where I made a recreation of the adruino standard library. *Well there is a lot of projects I mentioned above I lost most of them due to my PC deciding that windows wanted to become currupted and me losing all fo my projects, so I switched to manjaro Linux and started using git/github to store my projects*
+Then I started diving into deeper concepts like Neural Networks, Game Design, Programming Language Design (mainly interpreters at this point), and LeetCode-style problems. This whole experience taught me that if I spend 3+ hours a day learning something, I can easily surpass everyone around me.
 
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white) - It is the middle of my freshman year in my Tech Systems 1 class I had a great teacher, who I Loved to have as a teacher and I loved the class we had just finished building a wooden Bridge and testing it by adding weights to the middle to see who's could hold the most weigth. when I went over to ask him a question and he had a bunch of Arduino Uno R3 on his desk, So I made a small comment about arduino then asked my question, he answered my question and then asked me about my expirence with arduinos so I told him my expirence with them and then he told me his only expirence with programming was punch cards and fortran, then assigned me and my 2 freinds in that class to a special project where we build a RC car, I programmed and designed the circuit then me and one other friend built the circuit while the final freind CAD modeled and made a body for the car, out of wood and we assembled, then he had the rest of the class start using arduino where I helped to teach, by making circuits for everyoen to build and then programming. 2 weeks after he told me about fortran I was curious and went home to see if I could find any info on it and I joined the fortran subreddit and found a Fortran-77 guide to where I installed gfortran and started making a bunch of things, before I made my own fortran compiler in C++ (sadly I lost due to windows)
+---
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+My second language. I learned it by completing all of the Codecademy courses (which took 8 months of grinding at least 2 hours every day). I would say I know a lot about this language, but I have a love–hate relationship with it: it was one of my first languages so I have to love it, but the language itself really isn’t that good.
 
-![x86 Assembly](https://img.shields.io/badge/x86_64-6A5ACD?style=for-the-badge&logo=asm&logoColor=white) - since I had just started learning fortran I figured assembly was a good next step, so I `pacman -S nasm`'ed and started to learn assembly using the intel ia32 documentation, I highly dont reccomend taking this path, and then I started learning about logic gated and how them come together to make a functional CPU so Then I learned 6502 Assembly and dove super deep in analyzing every part of the 6502. I then learned that my calculator (Ti-85) had a Z80 inside of it and then wrote a bunch of small gamed using Z80 Assembly, before creating my own CPU only out of logic gates. 
+I also use C++ for developing with PROS for Vex V5. C++ introduced me to deeper concepts such as raycasting, compiler design, assembly, CPU architecture, OS internals, and why compiled programs can only run on specific machines.
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust) - I now stopped using Manjaro and started to use Arch and switched fro vs-code to NVIM, And I wanted to learn something knew so I Decided on Rust, I read the Rust Programming book as my summer reading and started to build a bunch of things I learned the following: How to use cargo, Variables, shadowing, basic types, Controll flow (`if`, `loops`, `match`), Functions + basic modularity, Ownership, borrowing, references, String vs &str, Basic collections (Vec, arrays), Error handling: Result, Option, Basic pattern matching, Enums & simple structs, Ownership in multi-module projects, Traits + generics, Lifetimes, Slices, iterators, closures, File IO, HashMap, BTreeMap, Custom data structures, More complex enums (state machines), Smart Pointers, concurrency, Trait objects, dynamic dispatch, Zero-cost abstractions, Unsafe Rust, Async Rust (`async` / `await`, `Future`, executors), Error handling architecture, Raw pointers, Manual Memory Management, Low-level profiling & optimization, Bindings to C, C++, Writing shared libraries, ABI, linking, layout guarantees, Microcontrollers, Interrupts and peripherals, Lock-free algorithms, Atomics, Custom thread pools, Macro systems & procedural macros, Compiler plugin-level work. 
+---
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) - Just learned the syntax and started to use it with react especially, but I really dont like front end and only really use it for docs sometimes, but mainly I would use Markdown. 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+One of my most-used languages. After learning some C++, I decided I wanted to learn C because I had heard great things about it. I really liked it, and I highly recommend it as a 2nd or 3rd language.
 
-![Haskell](https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white) - My first Functional programming language and I use it for Compiler front ends, Full interpiters, and assmeblers. 
+C changed the way I think about a lot of things. This is when I started embedded programming and embedded systems development on things like the Arduino and ESP32. I built a lot of cool things and then switched to “pure” C using only `avr-libc`, `avr-gcc`, and `avrdude`, where I made a recreation of the Arduino standard library.
 
+*Sadly, I lost many of the projects I mentioned above due to Windows corrupting itself, so I switched to Manjaro Linux and started using Git/GitHub to store my projects.*
+
+---
+
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)  
+In the middle of my freshman year Tech Systems 1 class, I had a great teacher who I loved. We had just finished building a wooden bridge and testing it by loading weight onto the middle to see whose held the most.
+
+When I went to ask him a question, he had a bunch of Arduino Uno R3 boards on his desk. I made a small comment about Arduino, asked my question, and after answering it, he asked about my experience with microcontrollers. I explained it, and he told me his only experience with programming was punch cards and Fortran.
+
+He then assigned me and two friends to a special project where we built an RC car. I programmed and designed the circuit, another friend helped build it, and the third CAD-modeled and built the body. After that, he had the rest of the class start using Arduino, and I helped teach by designing circuits and writing example programs.
+
+Two weeks after he mentioned Fortran, I got curious, joined the Fortran subreddit, found a Fortran-77 guide, installed gfortran, and started making a bunch of programs — before eventually writing my own Fortran compiler in C++ (which I sadly lost due to Windows).
+
+---
+
+![x86 Assembly](https://img.shields.io/badge/x86_64-6A5ACD?style=for-the-badge&logo=asm&logoColor=white)  
+After learning some Fortran, I figured assembly was a good next step. So I `pacman -S nasm`’d and started learning assembly using the Intel IA-32 documentation. I highly don’t recommend taking this path.
+
+I then started learning about logic gates and how they come together to make a functional CPU. That led me to learn 6502 assembly, where I dove super deep into analyzing every part of the 6502. I later learned that my TI-85 calculator had a Z80 inside it, so I wrote a bunch of small games using Z80 assembly before eventually creating my own CPU using only logic gates.
+
+---
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)  
+At this point, I stopped using Manjaro, switched to Arch, and moved from VS Code to Neovim. I wanted to learn something new, so I chose Rust. I read *The Rust Programming Language* book as my summer reading and started building a bunch of things.
+
+I learned how to use:  
+Cargo, variables, shadowing, basic types, control flow (`if`, loops, `match`), functions and modularity, ownership, borrowing, references, `String` vs `&str`, collections (Vec, arrays), Result/Option, pattern matching, enums, structs, traits, generics, lifetimes, slices, iterators, closures, file I/O, HashMap, BTreeMap, advanced enums, smart pointers, concurrency, trait objects, dynamic dispatch, zero-cost abstractions, unsafe Rust, async Rust (`async`/`await`, futures, executors), error handling patterns, raw pointers, manual memory management, profiling and optimization, C/C++ interop, ABI, linking, layout guarantees, microcontrollers, interrupts, lock-free algorithms, atomics, custom thread pools, macros, procedural macros, and compiler plugin-level work.
+
+---
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+I learned the syntax and started using it with React, but I really don’t like front-end work. I mainly use TypeScript for documentation-related tooling, but I generally prefer Markdown.
+
+---
+
+![Haskell](https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white)  
+My first functional programming language. I use it for compiler front-ends, full interpreters, and assemblers.
