@@ -53,3 +53,16 @@
 - [Arduino Game Boy](https://github.com/speedskater1610/Arduino-game-boy)
 - [Brain-F&ck in Rust](https://github.com/speedskater1610/Brain-F_ck)
 - [recursive descent arithmetic expression parser](https://github.com/speedskater1610/recursive-descent-arithmetic-expression-parser-in-HASKELL)
+
+## Expirence
+*In order that I learned them*
+## Experience
+
+- **JavaScript** – first language; built 20+ websites, DOM-heavy projects, APIs, Node.js.
+- **C++** – learned through Codecademy; used for raycasting and early compiler experiments.
+- **C** – embedded systems (Arduino, ESP32), bare-metal AVR with avr-gcc; recreated Arduino stdlib.
+- **Fortran** – explored F77; wrote small programs and even began a compiler.
+- **x86 & 6502 Assembly** – learned IA-32, Z80, and 6502; wrote games for TI-85 and analyzed CPUs.
+- **Rust** – read “The Rust Book”; built parsers, interpreters, async systems, and embedded Rust.
+- **Haskell** – functional programming for lexers, parsers, interpreters, and assemblers.
+[Read my full programming journey](ABOUT-ME.md)
