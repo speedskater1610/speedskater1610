@@ -53,6 +53,7 @@
 - [Arduino Game Boy](https://github.com/speedskater1610/Arduino-game-boy)
 - [Brain-F&ck in Rust](https://github.com/speedskater1610/Brain-F_ck)
 - [recursive descent arithmetic expression parser](https://github.com/speedskater1610/recursive-descent-arithmetic-expression-parser-in-HASKELL)
+- [Assembler is rust(backend) and haskell(front end)](https://github.com/speedskater1610/Assembler-in-Rust-and-Haskell)
 
 ## Expirence
 *In order that I learned them*
