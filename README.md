@@ -61,10 +61,10 @@
 - **JavaScript** – first language; built 20+ websites, DOM-heavy projects, APIs, Node.js.
 - **C++** – learned through Codecademy; used for raycasting and early compiler experiments.
 - **C** – embedded systems (Arduino, ESP32), bare-metal AVR with avr-gcc; recreated Arduino stdlib.
-- **Fortran** – explored F77; wrote small programs and even began a compiler.
+- **Fortran** – explored F77; wrote small programs and even began a compiler. Currently trying to use it for Iot on ardiuno and esp32. 
 - **x86 & 6502 Assembly** – learned IA-32, Z80, and 6502; wrote games for TI-85 and analyzed CPUs.
 - **Rust** – read “The Rust Book”; built parsers, interpreters, async systems, and embedded Rust.
-- **Java** - I use this for school, I have completed APCSA and APCSP on kahn acedemy.
+- **Java** - I use this for school, I have completed APCSP on khan acedemy.
 - **Haskell** – functional programming for lexers, parsers, interpreters, and assemblers.
   
 [Read my full programming journey](ABOUT-ME.md)
