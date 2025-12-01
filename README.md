@@ -57,7 +57,6 @@
 
 ## Expirence
 *In order that I learned them*
-## Experience
 
 - **JavaScript** – first language; built 20+ websites, DOM-heavy projects, APIs, Node.js.
 - **C++** – learned through Codecademy; used for raycasting and early compiler experiments.
