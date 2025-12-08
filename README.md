@@ -62,7 +62,7 @@
 - **JavaScript** – first language; built 20+ websites, DOM-heavy projects, APIs, Node.js.
 - **C++** – learned through Codecademy; used for raycasting and early compiler experiments.
 - **C** – embedded systems (Arduino, ESP32), bare-metal AVR with avr-gcc; recreated Arduino stdlib.
-- **Fortran** – explored F77 and F90; Wrote a transpiler froma simplified fortran 90 to avr-gcc C to run on arduino.  
+- **Fortran** – explored F77 and F90; Wrote a transpiler from a simplified fortran 90 to avr-gcc C to run on arduino.  
 - **x86 & 6502 Assembly** – learned IA-32, Z80, and 6502; wrote games for TI-85 and analyzed CPUs.
 - **Rust** – read “The Rust Book”; built parsers, interpreters, async systems, and embedded Rust.
 - **Java** - I use this for school, I have completed APCSP on khan acedemy.
