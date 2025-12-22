@@ -68,7 +68,7 @@
 - **Fortran** – explored F77 and F90; Wrote a transpiler from a simplified fortran 90 to avr-gcc C to run on arduino.  
 - **x86 & 6502 Assembly** – learned IA-32, Z80, and 6502; wrote games for TI-85 and analyzed CPUs.
 - **Rust** – read “The Rust Book”; built parsers, interpreters, async systems, and embedded Rust.
-- **Java** - I use this for school, I have completed APCSP on khan acedemy.
+- **Java** - I use this for school, I have completed APCSP on khan acedemy and plan to take APCSA and APCSP in school in the next 2 years.
 - **Haskell** – functional programming for lexers, parsers, interpreters, and assemblers.
   
 [Read my full programming journey](ABOUT-ME.md)
