@@ -40,16 +40,14 @@
 ![ESP32](https://img.shields.io/badge/ESP32-2C2C54?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![FPGA / Verilog](https://img.shields.io/badge/FPGA-FF2C2C?style=for-the-badge&logo=verilog&logoColor=white)
+![Vex v5](https://img.shields.io/badge/Vex_v5-2CFF2C?style=for-the-badge&logoColor=white)
+![Cortex-a9 arm](https://img.shields.io/badge/Cortex_A9_arm32-EED9C4?style=for-the-badge&logoColor=white)
 
 ## Interests
 - Compiler / programming language design
 - Optimizing code for efficiency
 - Refining, growing, and learning new skills
 - Speed skating (short track & long track)
-
-## Open-Source Contributions
-- [QuickJS](https://github.com/quickjs-ng/quickjs) – contributed documentation and code
-- More coming soon! Just getting started with open-source. if you want help on a open source project you can contact me.
 
 ## Finished Projects
 - [Raycasting Engine in C](https://github.com/speedskater1610/rawcasting-engine-in-C)
@@ -70,5 +68,6 @@
 - **Rust** – read “The Rust Book”; built parsers, interpreters, async systems, and embedded Rust.
 - **Java** - I use this for school, I have completed APCSP on khan acedemy and plan to take APCSA and APCSP in school in the next 2 years.
 - **Haskell** – functional programming for lexers, parsers, interpreters, and assemblers.
+- **Zig** - I used a lot for embedded projects as of late 2025 into 2026 build a library in zig for the Vex v5 brain
   
 [Read my full programming journey](ABOUT-ME.md)
