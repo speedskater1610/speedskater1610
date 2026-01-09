@@ -67,3 +67,6 @@ I learned the syntax and started using it with React, but I really don’t like 
 
 ![Haskell](https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white)  
 My first functional programming language. I use it for compiler front-ends, full interpreters, and assemblers.
+
+---
+
