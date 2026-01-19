@@ -12,6 +12,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=speedskater1610&theme=tokyonight&cache_seconds=86400" />
 </a>
 
+![](https://github.com/speedskater1610/speedskater1610/blob/main/fastfetch.png)
+
 
 ## Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
