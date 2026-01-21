@@ -73,3 +73,9 @@
 - **Zig** - I used a lot for embedded projects as of late 2025 into 2026 build a library in zig for the Vex v5 brain
   
 [Read my full programming journey](ABOUT-ME.md)
+
+## Open Source contributions 
+- Quickjs - I did some optimization and documentation
+- Vexide - I helped find a issue with one of the examples and fix it
+- Otterlang - I helped with some documentation.
+- Butterlang - Added arrays and added some documentation along with them.
