@@ -75,7 +75,7 @@
 [Read my full programming journey](ABOUT-ME.md)
 
 ## Open Source contributions 
-- Quickjs - I did some optimization and documentation
-- Vexide - I helped find a issue with one of the examples and fix it
+- Quickjs - I did some optimization and documentation, along with helping improve error messaging. 
+- Vexide - I helped find a fews issues with the examples and fixed them
 - Otterlang - I helped with some documentation.
 - Butterlang - Added arrays and added some documentation along with them.
