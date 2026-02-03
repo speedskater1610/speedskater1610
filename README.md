@@ -70,9 +70,9 @@
 - **Rust** – read “The Rust Book”; built parsers, interpreters, async systems, and embedded Rust. This is my main language for DSA "leetcode" style questions.
 - **Java** - I use this for school, I have completed APCSP on khan acedemy and plan to take APCSA and APCSP in school in the next 2 years.
 - **Haskell** – functional programming for lexers, parsers, interpreters, and assemblers.
-- **Zig** - I used a lot for embedded projects as of late 2025 into 2026 and used Zig to build a vex v5 runtime.
+- **Zig** - I used a lot for embedded projects as of late 2025 into 2026 and used Zig to build a vex v5 runtime. You wont find me doing much other than Zig and Haskell in the **big 26**.
 
-I have completed harvard CS50, Stanford CS143 Compilers, Uni of helsinki Functional Programming I | Functional Programming I, MOOC 5 cr.
+I have completed harvard CS50, Stanford CS143 Compilers, Uni of helsinki Functional Programming I | Functional Programming I, MOOC 5 cr. I am currently enroled in 2 other CS related courses a 600 course on compiler therory and a 400 course on operating systems.
   
 [Read my full programming journey](ABOUT-ME.md)
 
