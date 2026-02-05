@@ -1,5 +1,5 @@
 # About me
-I am a sophomore in HS, in east PA. 
+I am a sophomore in HS, in east PA. Most of this is my learning and opinions on diffrent langauges I have used. 
 
 # Overview and future planning
 
@@ -12,6 +12,7 @@ I am a sophomore in HS, in east PA.
 - **Java** - I use this for school, I have completed APCSP on khan acedemy and plan to take APCSA and APCSP in school in the next 2 years.
 - **Haskell** – functional programming for lexers, parsers, interpreters, and assemblers.
 - **Zig** - I used a lot for embedded projects as of late 2025 into 2026 and used Zig to build a vex v5 runtime. You wont find me doing much other than Zig and Haskell in the **big 26**.
+- **Scala** - I have used this a few time, mainly for school projects, since everything has to be done "in" java, but as long as the final product runs on the JVM I am fine. 
 
 I have completed harvard CS50, Stanford CS143 Compilers, Uni of helsinki Functional Programming I | Functional Programming I, MOOC 5 cr. I am currently enroled in 2 other CS related courses a 600 course on compiler therory and a 400 course on operating systems. And next year (My junior HS year) I plan to make a dual enrolement 200ish systems and assembly course at my local community college. 
 
@@ -64,7 +65,7 @@ I then started learning about logic gates and how they come together to make a f
 ---
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)  
-At this point, I stopped using Manjaro, switched to Arch, and moved from VS Code to Neovim. I wanted to learn something new, so I chose Rust. I read *The Rust Programming Language* book as my summer reading and started building a bunch of things.
+At this point, I stopped using Manjaro, switched to Arch, and moved from VS Code to Neovim. I wanted to learn something new, so I chose Rust. I read *The Rust Programming Language* book as my summer reading and started building a bunch of things. I think that Rust is the perfect langauage for Systems design and compiler backends. I really like the tooling and the whole crate system, solves oen of my biggest problems with C/C++. Low key hate traits. Since I started using Zig, I realized how slow `rustc` really is.
 
 I learned how to use:  
 Cargo, variables, shadowing, basic types, control flow (`if`, loops, `match`), functions and modularity, ownership, borrowing, references, `String` vs `&str`, collections (Vec, arrays), Result/Option, pattern matching, enums, structs, traits, generics, lifetimes, slices, iterators, closures, file I/O, HashMap, BTreeMap, advanced enums, smart pointers, concurrency, trait objects, dynamic dispatch, zero-cost abstractions, unsafe Rust, async Rust (`async`/`await`, futures, executors), error handling patterns, raw pointers, manual memory management, profiling and optimization, C/C++ interop, ABI, linking, layout guarantees, microcontrollers, interrupts, lock-free algorithms, atomics, custom thread pools, macros, procedural macros, and compiler plugin-level work.
@@ -82,7 +83,14 @@ I learned the syntax and started using it with React, but I really don’t like 
 ---
 
 ![Haskell](https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white)  
-My first functional programming language. I use it for compiler front-ends, full interpreters, and assemblers.
+My first functional programming language. I use it for compiler front-ends, full interpreters, and assemblers. I really like using Haskell and every since i have started using it I have started to really appriciate a lot more Rust  features.
 
 ---
 
+![Zig](https://img.shields.io/badge/Zig-ffffff?style=for-the-badge&logo=zig)
+I started learning Zig becasue I have only heard positive things about it. I really like Zig because it allows me to write code similar to the level of control with C but not have to worry about how unsafe it is with GPA. I also really like the build system for Zig, which is very uncommon since I rarely like the base build system on languages. I am trying to use Zig for some larger projects. Sadly I rarely use it for any projects, since I don't have a use case for the language. I like it slightly more than Rust because Traits suck. I also have beef wit you if you think Zig looks like C super-set.
+
+---
+
+![Scala](https://img.shields.io/badge/Scala-ffffff?style=for-the-badge&logo=scala&logoColor=red)
+I used this for a few school projects and projects for Uni classes that I take online, but other than that I havent really used it, I would like to write a lot more Scala but just like Zig I dont find that I have a huge use case for it. If I have any non-game GUI's I need to make I will probably write them in Scala; since I know java swing pretty well but honestly dislike writing Java.
