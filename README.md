@@ -16,10 +16,12 @@
 
 
 ## Languages
+![Zig](https://img.shields.io/badge/Zig-ffffff?style=for-the-badge&logo=zig)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 ![Haskell](https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Scala](https://img.shields.io/badge/Scala-ffffff?style=for-the-badge&logo=scala&logoColor=red)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86_64-6A5ACD?style=for-the-badge&logo=asm&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
