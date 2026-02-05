@@ -52,12 +52,18 @@
 - Speed skating (short track & long track)
 
 ## Finished Projects
+#### More fully rounded project (I spent more than a month on)
 - [Raycasting Engine in C](https://github.com/speedskater1610/rawcasting-engine-in-C)
-- [Arduino Game Boy](https://github.com/speedskater1610/Arduino-game-boy)
-- [Brain-F&ck in Rust](https://github.com/speedskater1610/Brain-F_ck)
 - [recursive descent arithmetic expression parser](https://github.com/speedskater1610/recursive-descent-arithmetic-expression-parser-in-HASKELL)
 - [Assembler is rust(backend) and haskell(front end)](https://github.com/speedskater1610/Assembler-in-Rust-and-Haskell)
+
+#### Shorter projects (I did in less than a month)
+- [A simple raycasting engine written in Java](https://github.com/speedskater1610/java-raycasting-engine)
+- [A scala and java calulator that is way over compilacted.](https://github.com/speedskater1610/bad-calc)
+- [A fully front end webiste I wrote to practice writing haskell](https://github.com/speedskater1610/Haskell-editor)
 - [Fortran to avr-gcc transpiler](https://github.com/speedskater1610/f2avr)
+- [Brain-F&ck in Rust](https://github.com/speedskater1610/Brain-F_ck)
+- [Arduino Game Boy](https://github.com/speedskater1610/Arduino-game-boy)
 
 ## Expirence
 - 2 years of formal CS edu
