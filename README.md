@@ -56,6 +56,7 @@
 - [Raycasting Engine in C](https://github.com/speedskater1610/rawcasting-engine-in-C)
 - [recursive descent arithmetic expression parser](https://github.com/speedskater1610/recursive-descent-arithmetic-expression-parser-in-HASKELL)
 - [Assembler is rust(backend) and haskell(front end)](https://github.com/speedskater1610/Assembler-in-Rust-and-Haskell)
+- [3327A 25-26 pushback code](https://github.com/3327A/3327A)
 
 #### Shorter projects (I did in less than a month)
 - [A simple raycasting engine written in Java](https://github.com/speedskater1610/java-raycasting-engine)
@@ -64,6 +65,11 @@
 - [Fortran to avr-gcc transpiler](https://github.com/speedskater1610/f2avr)
 - [Brain-F&ck in Rust](https://github.com/speedskater1610/Brain-F_ck)
 - [Arduino Game Boy](https://github.com/speedskater1610/Arduino-game-boy)
+
+## What am I working on now?
+- Zig runtime for Vex V5 brain (Cortex A9)
+- custom LLVM backend compiler.
+- Aways learning (Haskell, Zig, and Compiler/Sysetem design right now)
 
 ## Expirence
 - 2 years of formal CS edu
