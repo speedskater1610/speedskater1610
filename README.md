@@ -47,7 +47,7 @@
 
 ## Interests
 - Compiler / programming language design
-- Optimizing code for efficiency
+- C optimization techs
 - Refining, growing, and learning new skills
 - Speed skating (short track & long track)
 
