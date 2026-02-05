@@ -1,5 +1,5 @@
 # Hi there, I'm Russel! 👋
- 
+ <!--
 <a href="#"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedskater1610&langs_count=6&line_height=35&theme=tokyonight&cache_seconds=86400" /> 
 </a>
@@ -11,9 +11,9 @@
 <a href="#">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=speedskater1610&theme=tokyonight&cache_seconds=86400" />
 </a>
+-->
 
 ![](https://github.com/speedskater1610/speedskater1610/blob/main/fastfetch.png)
-
 
 ## Languages
 ![Zig](https://img.shields.io/badge/Zig-ffffff?style=for-the-badge&logo=zig)
