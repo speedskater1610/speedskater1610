@@ -16,19 +16,22 @@
 ![](https://github.com/speedskater1610/speedskater1610/blob/main/fastfetch.png)
 
 ## Languages
-![Zig](https://img.shields.io/badge/Zig-ffffff?style=for-the-badge&logo=zig)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![Haskell](https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Scala](https://img.shields.io/badge/Scala-ffffff?style=for-the-badge&logo=scala&logoColor=red)
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
-![x86 Assembly](https://img.shields.io/badge/x86_64-6A5ACD?style=for-the-badge&logo=asm&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 *This is the order of my favorite to least favorite*
+
+[![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#)
+[![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#)
+[![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
+[![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff)](#)
+[![x86 Assembly](https://img.shields.io/badge/x86_64-6A5ACD?logo=x86&logoColor=fff)](#)
+[![ARM Assembly](https://img.shields.io/badge/ARM-00599C?logo=x86&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 ## Tools
 [![Onshape](https://img.shields.io/badge/Onshape-FF3D00&logo=onshape&logoColor=white)](#)
