@@ -30,10 +30,13 @@
 *This is the order of my favorite to least favorite*
 
 ## Tools
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Onshape](https://img.shields.io/badge/Onshape-FF3D00?style=for-the-badge&logo=onshape&logoColor=white)
+[![Onshape](https://img.shields.io/badge/Onshape-FF3D00&logo=onshape&logoColor=white)](#)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#)
+[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
 
 ## Software & OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -74,6 +77,7 @@
 - Aways learning (Haskell, Zig, and Compiler/Sysetem design right now)
 
 ## Expirence
+[![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](#)
 - 2 years of formal CS edu
 - harvard CS50
 - Stanford CS143 Compilers
