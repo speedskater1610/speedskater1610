@@ -96,3 +96,4 @@
 - Vexide - I helped find a fews issues with the examples and fixed them
 - Otterlang - I helped with some documentation.
 - Butterlang - Added arrays and added some documentation along with them.
+- Vex Pros, There was a major issue with a stack not being initialized, because they would wait for freeRTOS to initialize one for `main` but then all of the globals would get places in BSS, which vexOS wants to be zeroed out when the program starts.
