@@ -79,7 +79,7 @@
 - Zig runtime for Vex V5 brain (Cortex A9)
 - custom LLVM backend compiler.
 - Aways learning (Haskell, Zig, and Compiler/Sysetem design right now)
-- I want to either learn  ellixer, or go super deep into zig.
+- I want to either learn  elixer, or go super deep into zig.
 
 ## Expirence
 [![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](#)
