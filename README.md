@@ -40,12 +40,12 @@
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#)
 [![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
 
+
 *I use nvim or vim to write code (depending weather PC or laptop) and then emacs to read code. Mainly because with vim to do all the keybinds I have to look around to see if what I typed is correctly and with emacs I can keep my eyes on the screen the entire time.*
 
 ## Software & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)](#)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 
 ## Platforms / Hardware
 ![ESP32](https://img.shields.io/badge/ESP32-2C2C54?style=for-the-badge&logo=espressif&logoColor=white)
@@ -92,8 +92,8 @@
 [Read my full programming journey](ABOUT-ME.md)
 
 ## Open Source contributions 
-- Quickjs - I did some optimization and documentation, along with helping improve error messaging. 
-- Vexide - I helped find a fews issues with the examples and fixed them
+- Quickjs - [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) - I did some optimization and documentation, along with helping improve error messaging. 
+- Vexide - [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) - I helped find a fews issues with the examples and fixed them
 - Otterlang - I helped with some documentation.
-- Butterlang - Added arrays and added some documentation along with them.
-- Vex Pros, There was a major issue with a stack not being initialized, because they would wait for freeRTOS to initialize one for `main` but then all of the globals would get places in BSS, which vexOS wants to be zeroed out when the program starts.
+- Butterlang - [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) - Added arrays and added some documentation along with them.
+- Vex Pros - [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) - There was a major issue with a stack not being initialized, because they would wait for freeRTOS to initialize one for `main` but then all of the globals would get places in BSS, which vexOS wants to be zeroed out when the program starts.
