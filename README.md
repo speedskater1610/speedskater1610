@@ -85,12 +85,6 @@
 
 ## Expirence
 [![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](#)
-- 2 years of formal CS edu
-- harvard CS50
-- Stanford CS143 Compilers
-- Uni of helsinki Functional Programming I | Functional Programming I, MOOC 5 cr
-- I am currently enroled in 2 other CS related courses a 600 course on compiler therory and a 400 course on operating systems
-- Next year (My junior HS year) I plan to make a dual enrolement 200ish systems and assembly course at my local community college.
 [Read my full programming journey](ABOUT-ME.md)
 
 ## Open Source contributions 
