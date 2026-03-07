@@ -13,6 +13,8 @@
 
 ![](https://github.com/speedskater1610/speedskater1610/blob/main/fastfetch.png)
 
+![](https://github-readme-stats-umber.vercel.app/api?username=speedskater1610&show_icons=true&theme=dark)
+
 ## Languages
 *This is the order of my favorite to least favorite*
 
