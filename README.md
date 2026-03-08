@@ -68,6 +68,7 @@
 - [recursive descent arithmetic expression parser](https://github.com/speedskater1610/recursive-descent-arithmetic-expression-parser-in-HASKELL)
 - [Assembler is rust(backend) and haskell(front end)](https://github.com/speedskater1610/Assembler-in-Rust-and-Haskell)
 - [3327A 25-26 pushback code](https://github.com/3327A/3327A)
+- [A MCL inplmentation using lemlib and PROS also with a auton selector for vex robotics](https://github.com/speedskater1610/pros-mcl-auton-seletor)
 
 #### Shorter projects (I did in less than a month)
 - [A simple raycasting engine written in Java](https://github.com/speedskater1610/java-raycasting-engine)
