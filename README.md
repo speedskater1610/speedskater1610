@@ -42,8 +42,9 @@
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#)
 [![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
 
-
+<!--
 *I use nvim or vim to write code (depending weather PC or laptop) and then emacs to read code. Mainly because with vim to do all the keybinds I have to look around to see if what I typed is correctly and with emacs I can keep my eyes on the screen the entire time.*
+-->
 
 ## Software & OS
 [![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)](#)
