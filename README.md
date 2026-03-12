@@ -62,6 +62,7 @@
 - Refining, growing, and learning new skills
 - Speed skating (short track & long track)
 
+<!--
 ## Finished Projects
 #### More fully rounded project (I spent more than a month on)
 - [Raycasting Engine in C](https://github.com/speedskater1610/rawcasting-engine-in-C)
@@ -77,13 +78,14 @@
 - [Fortran to avr-gcc transpiler](https://github.com/speedskater1610/f2avr)
 - [Brain-F&ck in Rust](https://github.com/speedskater1610/Brain-F_ck)
 - [Arduino Game Boy](https://github.com/speedskater1610/Arduino-game-boy)
+-->
 
 ## What am I working on now?
 - Zig runtime for Vex V5 brain (Cortex A9)
 - custom LLVM backend compiler.
 - Aways learning (Haskell, Zig, and Compiler/Sysetem design right now)
 - I want to either learn  elixer, or go super deep into zig.
-
+<!--
 ## Expirence
 [![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](#)
 [Read my full programming journey](ABOUT-ME.md)
@@ -94,3 +96,4 @@
 - Otterlang - I helped with some documentation.
 - Butterlang - [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) - Added arrays and added some documentation along with them.
 - Vex Pros - [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) - There was a major issue with a stack not being initialized, because they would wait for freeRTOS to initialize one for `main` but then all of the globals would get places in BSS, which vexOS wants to be zeroed out when the program starts.
+-->
