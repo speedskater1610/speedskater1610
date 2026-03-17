@@ -84,7 +84,7 @@
 ## What am I working on now?
 - Zig runtime for Vex V5 brain (Cortex A9)
 - custom LLVM backend compiler.
-- Aways learning (Haskell, Zig, and Compiler/Sysetem design right now)
+- Aways learning (Haskell, Zig, and Compiler/System design right now)
 - I want to either learn  elixer, or go super deep into zig.
 <!--
 ## Expirence
