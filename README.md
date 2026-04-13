@@ -50,12 +50,14 @@
 [![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 
+<!--
 ## Platforms / Hardware
 ![ESP32](https://img.shields.io/badge/ESP32-2C2C54?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![FPGA / Verilog](https://img.shields.io/badge/FPGA-FF2C2C?style=for-the-badge&logo=verilog&logoColor=white)
 ![Vex v5](https://img.shields.io/badge/Vex_v5-2CFF2C?style=for-the-badge&logoColor=white)
 ![Cortex-a9 arm](https://img.shields.io/badge/Cortex_A9_arm32-EED9C4?style=for-the-badge&logoColor=white)
+-->
 
 ## Interests
 - Compiler / programming language design
