@@ -1,4 +1,9 @@
-# Hi there, I'm Russel! 👋
+<div style="display: flex; align-items: center; justify-content: center;">
+  <h1 style="margin: 0;">
+    Hi there, I'm Russel! 👋
+  </h1>
+  <img src="https://raw.githubusercontent.com/speedskater1610/speedskater1610/main/fastfetch.png" width="25%" style="margin-left: 10px;">
+</div>
  <!--
 <a href="#"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedskater1610&langs_count=6&line_height=35&theme=tokyonight&cache_seconds=86400" /> 
@@ -11,7 +16,6 @@
 </a>
 -->
 
-<img src="https://raw.githubusercontent.com/speedskater1610/speedskater1610/main/fastfetch.png" width="25%">
 
 ## Languages
 *This is the order of my favorite to least favorite*
