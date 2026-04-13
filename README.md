@@ -11,9 +11,7 @@
 </a>
 -->
 
-![](https://github.com/speedskater1610/speedskater1610/blob/main/fastfetch.png)
-
-![Readme stats](https://github-readme-stats-umber.vercel.app/api?username=speedskater1610&show_icons=true&theme=dark)
+<img src="https://raw.githubusercontent.com/speedskater1610/speedskater1610/main/fastfetch.png" width="25%">
 
 ## Languages
 *This is the order of my favorite to least favorite*
