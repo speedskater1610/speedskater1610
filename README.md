@@ -98,6 +98,7 @@
 [![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](#)
 [Read my full programming journey](ABOUT-ME.md)
 
+
 ## Open Source contributions 
 - Quickjs - [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) - I did some optimization and documentation, along with helping improve error messaging. 
 - Vexide - [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) - I helped find a fews issues with the examples and fixed them
