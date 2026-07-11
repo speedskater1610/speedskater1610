@@ -4,14 +4,14 @@
   </h1>
   <img src="https://raw.githubusercontent.com/speedskater1610/speedskater1610/main/fastfetch.png" width="25%" style="margin-left: 10px;">
 </div>
- 
+
+ <!--
 <a href="#"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedskater1610&langs_count=6&line_height=35&theme=tokyonight&cache_seconds=86400" /> 
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=speedskater1610&show_icons=true&line_height=33&count_private=true&theme=tokyonight&cache_seconds=86400" />
 </a>
-<!--
 <a href="#">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=speedskater1610&theme=tokyonight&cache_seconds=86400" />
 </a>
